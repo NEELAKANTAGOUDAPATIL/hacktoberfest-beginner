@@ -5,9 +5,8 @@ Written For - http://developerinsider.in
 ********************************************/
 
 #include <stdio.h>
-int main()
+void main()
 {
 	printf("Hello world\n");
 	printf("welcome to c language\n");
-	return 0;
 }
