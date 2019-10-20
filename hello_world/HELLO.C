@@ -8,5 +8,5 @@ Written For - http://developerinsider.in
 void main()
 {
 	printf("Hello world\n");
-	printf("welcome to c language\n");
+	//printf("welcome to c language\n");
 }
